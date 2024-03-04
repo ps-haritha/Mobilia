@@ -1,0 +1,7 @@
+.card2
+{
+    box-shadow: 2px 5px 8px grey;
+    width: max-content;
+    border-radius: 3px;padding: 10px;
+    margin-left: 10px;
+}

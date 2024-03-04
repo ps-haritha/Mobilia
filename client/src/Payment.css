@@ -1,0 +1,46 @@
+.icon
+{
+    width: 40px;
+    height: 30px;
+}
+.orderbutton
+{
+    font-weight: bold;
+    border: .5px solid brown;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    background-color: brown;
+}
+@media screen and (max-width:420px) {
+    .orderbutton{
+        width: 100%;
+    }
+    
+}
+.drop
+{
+    width: 200px;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 20px;
+}
+.tb
+{
+    width: 250px;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 20px; 
+    border: 2px solid grey;
+}
+.pay
+{
+    display: flex;
+}
+@media screen and(max-width:800px) 
+{
+  .pay{
+    display: block;
+  }  
+}

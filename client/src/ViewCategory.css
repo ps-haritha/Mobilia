@@ -1,0 +1,27 @@
+.furniturecard
+{
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 2px 8px 10px grey;
+    width: 100%;
+    padding: 20px;
+}
+.content
+{
+    padding: 20px;
+}
+p{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btnadd
+{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    background-color: rgb(130, 12, 12);
+    color: white;
+    border: none;
+    height: 30px;
+    box-shadow: 3px 8px 10px grey;
+}

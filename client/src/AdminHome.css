@@ -1,0 +1,11 @@
+
+.homebg
+{
+    object-fit: cover;
+   background-size: contain;
+   /* width: 1535px;
+   height: 658px; */
+   width: 100%;
+   height: auto;
+    
+}

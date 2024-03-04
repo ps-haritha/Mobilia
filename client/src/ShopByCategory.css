@@ -1,0 +1,17 @@
+.shop
+{
+    width: 150px;
+    height: 120px;
+    padding: 20px;
+}
+.shopp
+{
+    font-size: 25px;
+    color: rgb(160, 22, 22);
+    align-content: center;
+}
+.category
+{
+    box-shadow: 0 2px 10px 8px rgb(213, 210, 210);
+    border-radius: 5px;
+}

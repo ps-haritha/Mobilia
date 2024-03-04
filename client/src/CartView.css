@@ -1,0 +1,54 @@
+table
+{
+   margin-left: 20px;
+   border-radius: 5px ;
+   
+}
+.remove
+{
+    border: none;
+    background-color: rgb(180, 175, 175);
+    border-radius: 3px;
+}
+td,th
+{
+    padding: 20px;
+    
+}
+
+.cartdiv
+{
+    display: block;
+    box-shadow: 2px 5px 8px grey;
+    
+    
+}
+.checkout
+{
+    background-color: rgb(148, 49, 49);
+    margin: 20px;
+    border-radius: 20px;
+    color: white;
+    font-size: 18px;
+    border: none;
+    width: 200px;
+    height: 40px;
+    
+}
+@media screen and (max-width: 500px)
+{
+    td
+
+{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+}
+@media screen and (max-width : 270px)
+ {
+    .checkout
+    {
+        width:max-content;
+    }
+}

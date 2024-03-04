@@ -1,0 +1,53 @@
+td,th
+{
+    padding: 10px;
+    
+}
+
+.cartdiv2
+{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    box-shadow: 2px 5px 10px rgb(171, 167, 167);
+   
+}
+    
+
+@media screen and(max-width:470px) {
+    .cartdiv2
+    {
+        display: block;
+        
+    }
+    
+    
+}
+.ship
+{
+    
+    padding-left: 10px;
+    
+    
+}
+.imgicon{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+.imgicon
+{
+    width:200px;
+    height:200px;
+    float:right;
+}
+@media screen and (max-width:375px) {
+    .imgicon
+    {
+        display: none;
+    }
+    
+}

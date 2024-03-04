@@ -1,0 +1,22 @@
+.foot
+{
+    height: 80px;
+background-color: rgb(99, 10, 10);
+color: white;
+
+box-sizing: border-box;
+width: 100%;
+position: absolute;
+display: inline-table;
+}
+.mobilia
+{
+    font-size: 23px;
+    margin-top: 20px;
+    
+}
+.images
+{
+    
+    margin-left: 30px;
+}

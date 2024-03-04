@@ -1,0 +1,48 @@
+.btn
+{
+    font-weight: bold;
+    border: .5px solid brown;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    background-color: brown;
+}
+.btn:hover{
+    color: rgb(72, 3, 3);
+    
+    background-color: white;
+
+}
+.form
+{
+    margin-top: 0;
+    box-shadow: 2px 5px 8px grey;
+    height: fit-content;
+}
+.addp
+{
+    display: flex;
+}
+.dropdown
+{
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+}
+.fImage
+{
+    width:250px;height:250px;
+}
+@media screen and(max-width:700px) {
+    .fImage
+    {
+        display: none;
+    }
+    .form
+    {
+        margin-left: 0;
+        float: left;
+    }
+    
+}

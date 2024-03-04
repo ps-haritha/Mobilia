@@ -1,0 +1,14 @@
+.nav-link
+{
+    color: white;
+}
+.nav-link:hover{
+    color: white;
+}
+.brand
+{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

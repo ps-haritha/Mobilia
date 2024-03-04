@@ -1,0 +1,27 @@
+.userdetails{
+    box-shadow: 2px 5px 8px grey;
+    width: 400px;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    
+}
+.removeUser
+{
+    background-color: rgb(130, 21, 21);
+    color: white;
+    border: none;
+    height: 40px;
+    width: 300px;
+    align-content: center;
+    box-shadow: 2px 8px 10px grey;
+
+}
+.testp
+{
+    font-size: 15px;
+}
+.udetails{
+    display: inline-flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,40 @@
+.form-control
+{
+    border:  1px solid;
+   
+}
+.Form.Control
+{
+    width: 500px; 
+}
+.signbtn
+{
+    box-shadow: 2px 5px 8px rgb(75, 72, 72); 
+    font-weight: bold;
+    border: .5px solid brown;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    background-color: brown;
+}
+.signbtn:hover
+{
+    color: rgb(72, 3, 3);
+    
+    background-color: white;
+}
+@media screen and (max-width : 500px) 
+{
+    .signbtn,.Form.Control{
+       width:100%;
+    }
+}
+.signup
+{
+    box-shadow: 2px 8px 10px grey;
+    border-radius: 15px;
+    width: max-content;
+    padding: 20px;
+    margin-left: 20px;
+}
